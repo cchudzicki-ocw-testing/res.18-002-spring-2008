@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: "Introduction to MATLAB\xAE Project Ideas"
+type: SupplementalResourceSection
 uid: e22b7c4b-f816-692d-5e52-7dc85706150f
 ---
 
