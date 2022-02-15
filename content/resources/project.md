@@ -8,6 +8,5 @@ parent_title: "Introduction to MATLAB\xAE Project Ideas"
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Project.pdf
-type: OCWFile
 uid: 1bb63e29-9358-62fd-d679-b1b384862cb2
 ---

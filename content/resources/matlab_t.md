@@ -8,6 +8,5 @@ parent_title: "Other MATLAB\xAE Resources at MIT"
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: matlab_t.pdf
-type: OCWFile
 uid: 7d43b00a-4987-5dcd-3470-ad05c5737351
 ---

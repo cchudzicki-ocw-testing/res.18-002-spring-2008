@@ -8,6 +8,5 @@ parent_title: "Other MATLAB\xAE Resources at MIT"
 parent_type: SupplementalResourceSection
 resourcetype: Document
 title: tutorial00.pdf
-type: OCWFile
 uid: 39600517-5394-0251-4e27-fe252b716811
 ---
