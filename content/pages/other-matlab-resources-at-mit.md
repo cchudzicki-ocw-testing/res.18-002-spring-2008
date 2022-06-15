@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Other MATLAB Resources at MIT.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: "Other MATLAB\xAE Resources at MIT"

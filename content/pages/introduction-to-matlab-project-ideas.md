@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Introduction to MATLAB Project Ideas.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: "Introduction to MATLAB\xAE Project Ideas"
